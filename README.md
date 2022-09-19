@@ -1,7 +1,7 @@
 # 本书购买链接
 https://item.jd.com/13335199.html
 
-![](https://uploader.shimo.im/f/mnx7s42ca0FHHXw0.jpg!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjM1OTU5ODMsImZpbGVHVUlEIjoiNnJ3aERkSmN3WFBWUEN2ViIsImlhdCI6MTY2MzU5NTY4MywiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo0MDY0Mjc1NH0.m8lV9XDm4OBLTDIXaj6S-7c981LN4ikC2fCv2nLp_xo)
+![](https://static.careerengine.us/api/aov2/https%3A_%7C__%7C_mmbiz.qpic.cn_%7C_mmbiz_jpg_%7C_daemkYJJ6zlmxIKFD5R1yTeBiayaOtMAamH0uRR33M0DphjEg44yODz9iavMlNFjuU5C4UWEj9lrKaVfjbib26xbg_%7C_640%3Fwx_fmt%3Djpeg)
 
 # 一刷勘误
 ## 整体
@@ -13,7 +13,7 @@ https://item.jd.com/13335199.html
 原输出图中单身的14和有朋友的19应该对调。
 
 正确的图：
-![](https://uploader.shimo.im/f/SCVdSMM6o11bH6ly.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjM1OTU5ODMsImZpbGVHVUlEIjoiNnJ3aERkSmN3WFBWUEN2ViIsImlhdCI6MTY2MzU5NTY4MywiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo0MDY0Mjc1NH0.m8lV9XDm4OBLTDIXaj6S-7c981LN4ikC2fCv2nLp_xo)
+![](https://img-blog.csdnimg.cn/7d42afe3ce034ac387e6babc78caaeb8.png)
 
 ## P052
 userList =["咖哥", "马总", "小冰", "小雪"] #创建元组
@@ -33,7 +33,7 @@ Out:0.72587994
 
 这是为了和P56页的npArray05内容保持一致。
 ## P057
-![](https://uploader.shimo.im/f/6eBjs6P1Z5RFapfG.jpeg!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjM1OTU5ODMsImZpbGVHVUlEIjoiNnJ3aERkSmN3WFBWUEN2ViIsImlhdCI6MTY2MzU5NTY4MywiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo0MDY0Mjc1NH0.m8lV9XDm4OBLTDIXaj6S-7c981LN4ikC2fCv2nLp_xo)
+![](https://img-blog.csdnimg.cn/1d80e778092041bb8869bb4764142010.png)
 
 npArray02数组中第四列的前三个元素，
 
@@ -47,4 +47,4 @@ npArray02数组中**第二行**的前三个元素。
 
 3/4 + 1/4 = 1 改为 4/5 + 1/5 = 1
 
-![](https://uploader.shimo.im/f/kdmwIwKciLHEurOo.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjM1OTYyNzYsImZpbGVHVUlEIjoiNnJ3aERkSmN3WFBWUEN2ViIsImlhdCI6MTY2MzU5NTk3NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo0MDY0Mjc1NH0.hUh5LsyAcOjbj3ACs0ht53Cde9-cKJL67qkjtAWcSYA)
+![](https://img-blog.csdnimg.cn/5ef48d96723f46c5abbc59e3b4beab75.png)
