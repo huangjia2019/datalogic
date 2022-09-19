@@ -1,7 +1,7 @@
 # 本书购买链接
 https://item.jd.com/13335199.html
 
-![](https://static.careerengine.us/api/aov2/https%3A_%7C__%7C_mmbiz.qpic.cn_%7C_mmbiz_jpg_%7C_daemkYJJ6zlmxIKFD5R1yTeBiayaOtMAamH0uRR33M0DphjEg44yODz9iavMlNFjuU5C4UWEj9lrKaVfjbib26xbg_%7C_640%3Fwx_fmt%3Djpeg)
+![](https://img-blog.csdnimg.cn/bce1b5ef95f342fdbd9808bc3eb563b5.png)
 
 # 一刷勘误
 ## 整体
